@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Projet-4-React/static/css/main.b66555f6.chunk.css",
+    "main.js": "/Projet-4-React/static/js/main.168d74f7.chunk.js",
+    "main.js.map": "/Projet-4-React/static/js/main.168d74f7.chunk.js.map",
+    "runtime-main.js": "/Projet-4-React/static/js/runtime-main.98671dc9.js",
+    "runtime-main.js.map": "/Projet-4-React/static/js/runtime-main.98671dc9.js.map",
+    "static/js/2.a57073dc.chunk.js": "/Projet-4-React/static/js/2.a57073dc.chunk.js",
+    "static/js/2.a57073dc.chunk.js.map": "/Projet-4-React/static/js/2.a57073dc.chunk.js.map",
+    "index.html": "/Projet-4-React/index.html",
+    "static/css/main.b66555f6.chunk.css.map": "/Projet-4-React/static/css/main.b66555f6.chunk.css.map",
+    "static/js/2.a57073dc.chunk.js.LICENSE.txt": "/Projet-4-React/static/js/2.a57073dc.chunk.js.LICENSE.txt",
+    "static/media/allergy.eab4a1e6.svg": "/Projet-4-React/static/media/allergy.eab4a1e6.svg",
+    "static/media/diet.96ec42f9.svg": "/Projet-4-React/static/media/diet.96ec42f9.svg",
+    "static/media/healthy.6ccebc97.svg": "/Projet-4-React/static/media/healthy.6ccebc97.svg",
+    "static/media/love.eff86fb3.svg": "/Projet-4-React/static/media/love.eff86fb3.svg",
+    "static/media/thumb.ca372aae.svg": "/Projet-4-React/static/media/thumb.ca372aae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98671dc9.js",
+    "static/js/2.a57073dc.chunk.js",
+    "static/css/main.b66555f6.chunk.css",
+    "static/js/main.168d74f7.chunk.js"
+  ]
+}
